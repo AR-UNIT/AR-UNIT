@@ -1,3 +1,4 @@
+```javascript
 const whoami = {
     name: "Arunit Baidya",
     website: "https://ar-unit.github.io/about-me-website/",
@@ -10,3 +11,4 @@ const whoami = {
         misc: ["GDB"]
     }
 };
+```
