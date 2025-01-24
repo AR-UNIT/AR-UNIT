@@ -6,8 +6,8 @@ const whoami = {
     technologies: {
         languages: ["C / C++", "Java", "Python", "GoLang","HTML", "CSS", "Javascript"],
         data: ["Spark", "Kafka", "ETL", "Snowflake", "DeltaLake", "SQL", "NoSQL", "Redis"]
-        cloud & devops: ["API", "AWS", "Elastic Search", "Docker", "Kubernetes", "Middleware"],
+        cloud_&_devops: ["API", "AWS", "Elastic Search", "Docker", "Kubernetes", "Middleware"],
         frameworks: ["REST", "Airflow", "Ansible", "Prometheus", "Grafana"],
-        misc: ["GDB"]
+        misc: ["GDB", "multi-threading"]
     }
 };
