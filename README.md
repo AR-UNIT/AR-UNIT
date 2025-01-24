@@ -11,4 +11,3 @@ const whoami = {
         misc: ["GDB"]
     }
 };
-```
